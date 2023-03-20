@@ -3,7 +3,7 @@
 DEMO-> https://ghummo-india.netlify.app/
 Tour &amp; Travel Project (Using Html, Css, Php, Javascript).
 
-Hii ! We are Boolean Pundits
+Hi ! Everyone We are Boolean Pundits. We Create Some innovative Webpages For Tour & Travel Companies. We Love to Explore Places and Love to Design them.
 Here We used <b>Html, Css & javascript</b> To create the front end part of the website and for storing the Contact Information in the Database we used <b>php</b> as a backend language.
 
 The HomePage of the Website is with<b> main.html</b> file.
